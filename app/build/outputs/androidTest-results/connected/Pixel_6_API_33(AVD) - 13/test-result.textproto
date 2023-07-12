@@ -1,0 +1,224 @@
+# 2023-07-12T06:40:32.332Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 4
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "recycler_view_item_count"
+    start_time {
+      seconds: 1689144026
+      nanos: 384000000
+    }
+    end_time {
+      seconds: 1689144027
+      nanos: 180000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\logcat-com.example.dogglers.VerticalListTests-recycler_view_item_count.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scroll_content_at_last_position"
+    start_time {
+      seconds: 1689144027
+      nanos: 652000000
+    }
+    end_time {
+      seconds: 1689144028
+      nanos: 323000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_last_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scrolling"
+    start_time {
+      seconds: 1689144028
+      nanos: 684000000
+    }
+    end_time {
+      seconds: 1689144030
+      nanos: 217000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\logcat-com.example.dogglers.VerticalListTests-vertical_scrolling.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scroll_content_at_first_position"
+    start_time {
+      seconds: 1689144030
+      nanos: 681000000
+    }
+    end_time {
+      seconds: 1689144031
+      nanos: 530000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_first_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\Yong\\Android\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_API_33(AVD) - 13\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

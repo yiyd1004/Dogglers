@@ -1,0 +1,243 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (C) 2021 The Android Open Source Project.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~     http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.dogglers"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="21"
+23-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="33" />
+24-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml
+25
+26    <uses-permission android:name="android.permission.REORDER_TASKS" />
+26-->[androidx.fragment:fragment-testing-manifest:1.6.0] C:\Users\Yong\.gradle\caches\transforms-3\d4461ecf75c3b46769fcd60dab112557\transformed\jetified-fragment-testing-manifest-1.6.0\AndroidManifest.xml:23:5-72
+26-->[androidx.fragment:fragment-testing-manifest:1.6.0] C:\Users\Yong\.gradle\caches\transforms-3\d4461ecf75c3b46769fcd60dab112557\transformed\jetified-fragment-testing-manifest-1.6.0\AndroidManifest.xml:23:22-69
+27
+28    <permission
+28-->[androidx.core:core:1.10.1] C:\Users\Yong\.gradle\caches\transforms-3\8f1bdf20610e92d9a4bb95581c4e1233\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+29        android:name="com.example.dogglers.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.10.1] C:\Users\Yong\.gradle\caches\transforms-3\8f1bdf20610e92d9a4bb95581c4e1233\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.10.1] C:\Users\Yong\.gradle\caches\transforms-3\8f1bdf20610e92d9a4bb95581c4e1233\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.example.dogglers.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.10.1] C:\Users\Yong\.gradle\caches\transforms-3\8f1bdf20610e92d9a4bb95581c4e1233\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.10.1] C:\Users\Yong\.gradle\caches\transforms-3\8f1bdf20610e92d9a4bb95581c4e1233\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:19:5-49:19
+35        android:allowBackup="true"
+35-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:20:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.10.1] C:\Users\Yong\.gradle\caches\transforms-3\8f1bdf20610e92d9a4bb95581c4e1233\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+37        android:debuggable="true"
+38        android:icon="@mipmap/ic_launcher"
+38-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:21:9-43
+39        android:label="@string/app_name"
+39-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:22:9-41
+40        android:roundIcon="@mipmap/ic_launcher_round"
+40-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:23:9-54
+41        android:supportsRtl="true"
+41-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:24:9-35
+42        android:testOnly="true"
+43        android:theme="@style/Theme.Dogglers" >
+43-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:25:9-46
+44        <activity android:name="com.example.dogglers.VerticalListActivity" >
+44-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:26:9-30:20
+44-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:26:19-55
+45            <meta-data
+45-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:27:13-29:49
+46                android:name="android.support.PARENT_ACTIVITY"
+46-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:28:17-63
+47                android:value=".MainActivity" />
+47-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:29:17-46
+48        </activity>
+49        <activity android:name="com.example.dogglers.HorizontalListActivity" >
+49-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:31:9-35:20
+49-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:31:19-57
+50            <meta-data
+50-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:27:13-29:49
+51                android:name="android.support.PARENT_ACTIVITY"
+51-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:28:17-63
+52                android:value=".MainActivity" />
+52-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:29:17-46
+53        </activity>
+54        <activity android:name="com.example.dogglers.GridListActivity" >
+54-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:36:9-40:20
+54-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:36:19-51
+55            <meta-data
+55-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:27:13-29:49
+56                android:name="android.support.PARENT_ACTIVITY"
+56-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:28:17-63
+57                android:value=".MainActivity" />
+57-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:29:17-46
+58        </activity>
+59        <activity
+59-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:41:9-48:20
+60            android:name="com.example.dogglers.MainActivity"
+60-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:41:19-47
+61            android:exported="true" >
+61-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:42:13-36
+62            <intent-filter>
+62-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:43:13-47:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:44:17-69
+63-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:44:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:46:17-77
+65-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:46:27-74
+66            </intent-filter>
+67        </activity>
+68        <activity
+68-->[androidx.fragment:fragment-testing-manifest:1.6.0] C:\Users\Yong\.gradle\caches\transforms-3\d4461ecf75c3b46769fcd60dab112557\transformed\jetified-fragment-testing-manifest-1.6.0\AndroidManifest.xml:26:9-35:20
+69            android:name="androidx.fragment.app.testing.EmptyFragmentActivity"
+69-->[androidx.fragment:fragment-testing-manifest:1.6.0] C:\Users\Yong\.gradle\caches\transforms-3\d4461ecf75c3b46769fcd60dab112557\transformed\jetified-fragment-testing-manifest-1.6.0\AndroidManifest.xml:27:13-79
+70            android:exported="true"
+70-->[androidx.fragment:fragment-testing-manifest:1.6.0] C:\Users\Yong\.gradle\caches\transforms-3\d4461ecf75c3b46769fcd60dab112557\transformed\jetified-fragment-testing-manifest-1.6.0\AndroidManifest.xml:28:13-36
+71            android:multiprocess="true"
+71-->[androidx.fragment:fragment-testing-manifest:1.6.0] C:\Users\Yong\.gradle\caches\transforms-3\d4461ecf75c3b46769fcd60dab112557\transformed\jetified-fragment-testing-manifest-1.6.0\AndroidManifest.xml:29:13-40
+72            android:taskAffinity=""
+72-->[androidx.fragment:fragment-testing-manifest:1.6.0] C:\Users\Yong\.gradle\caches\transforms-3\d4461ecf75c3b46769fcd60dab112557\transformed\jetified-fragment-testing-manifest-1.6.0\AndroidManifest.xml:30:13-36
+73            android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme" >
+73-->[androidx.fragment:fragment-testing-manifest:1.6.0] C:\Users\Yong\.gradle\caches\transforms-3\d4461ecf75c3b46769fcd60dab112557\transformed\jetified-fragment-testing-manifest-1.6.0\AndroidManifest.xml:31:13-78
+74            <intent-filter>
+74-->[androidx.fragment:fragment-testing-manifest:1.6.0] C:\Users\Yong\.gradle\caches\transforms-3\d4461ecf75c3b46769fcd60dab112557\transformed\jetified-fragment-testing-manifest-1.6.0\AndroidManifest.xml:32:13-34:29
+75                <action android:name="android.intent.action.MAIN" />
+75-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:44:17-69
+75-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:44:25-66
+76            </intent-filter>
+77        </activity>
+78        <activity
+78-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:27:9-34:20
+79            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+79-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:28:13-99
+80            android:exported="true"
+80-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:29:13-36
+81            android:theme="@style/WhiteBackgroundTheme" >
+81-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:30:13-56
+82            <intent-filter android:priority="-100" >
+82-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+82-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+83                <category android:name="android.intent.category.LAUNCHER" />
+83-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:46:17-77
+83-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:46:27-74
+84            </intent-filter>
+85        </activity>
+86        <activity
+86-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:35:9-42:20
+87            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+87-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:36:13-95
+88            android:exported="true"
+88-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:37:13-36
+89            android:theme="@style/WhiteBackgroundTheme" >
+89-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:38:13-56
+90            <intent-filter android:priority="-100" >
+90-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+90-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+91                <category android:name="android.intent.category.LAUNCHER" />
+91-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:46:17-77
+91-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:46:27-74
+92            </intent-filter>
+93        </activity>
+94        <activity
+94-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:43:9-50:20
+95            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+95-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:44:13-103
+96            android:exported="true"
+96-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:45:13-36
+97            android:theme="@style/WhiteBackgroundDialogTheme" >
+97-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:46:13-62
+98            <intent-filter android:priority="-100" >
+98-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+98-->[androidx.test:core:1.5.0] C:\Users\Yong\.gradle\caches\transforms-3\240a77c6231971740b643b35d5830182\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+99                <category android:name="android.intent.category.LAUNCHER" />
+99-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:46:17-77
+99-->C:\Users\Yong\Android\android-basics-kotlin-dogglers-app-main\app\src\main\AndroidManifest.xml:46:27-74
+100            </intent-filter>
+101        </activity>
+102
+103        <provider
+103-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yong\.gradle\caches\transforms-3\e4645bb2e8b06bdc5c61dc0ce08b3a4d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+104            android:name="androidx.startup.InitializationProvider"
+104-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yong\.gradle\caches\transforms-3\e4645bb2e8b06bdc5c61dc0ce08b3a4d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+105            android:authorities="com.example.dogglers.androidx-startup"
+105-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yong\.gradle\caches\transforms-3\e4645bb2e8b06bdc5c61dc0ce08b3a4d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+106            android:exported="false" >
+106-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yong\.gradle\caches\transforms-3\e4645bb2e8b06bdc5c61dc0ce08b3a4d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+107            <meta-data
+107-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yong\.gradle\caches\transforms-3\e4645bb2e8b06bdc5c61dc0ce08b3a4d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+108                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+108-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yong\.gradle\caches\transforms-3\e4645bb2e8b06bdc5c61dc0ce08b3a4d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+109                android:value="androidx.startup" />
+109-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yong\.gradle\caches\transforms-3\e4645bb2e8b06bdc5c61dc0ce08b3a4d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+110            <meta-data
+110-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Yong\.gradle\caches\transforms-3\efeb7245f86ab5d0fd1a2a9c121d0346\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+111                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+111-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Yong\.gradle\caches\transforms-3\efeb7245f86ab5d0fd1a2a9c121d0346\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+112                android:value="androidx.startup" />
+112-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Yong\.gradle\caches\transforms-3\efeb7245f86ab5d0fd1a2a9c121d0346\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+113            <meta-data
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+114                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+115                android:value="androidx.startup" />
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+116        </provider>
+117
+118        <receiver
+118-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+119            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+120            android:directBootAware="false"
+120-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+121            android:enabled="true"
+121-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+122            android:exported="true"
+122-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+123            android:permission="android.permission.DUMP" >
+123-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+124            <intent-filter>
+124-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+125                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+126            </intent-filter>
+127            <intent-filter>
+127-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+128                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+129            </intent-filter>
+130            <intent-filter>
+130-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+131                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+131-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+131-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+132            </intent-filter>
+133            <intent-filter>
+133-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+134                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+134-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+134-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yong\.gradle\caches\transforms-3\633afb02c1a583f6e40372f10a431111\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+135            </intent-filter>
+136        </receiver>
+137    </application>
+138
+139</manifest>

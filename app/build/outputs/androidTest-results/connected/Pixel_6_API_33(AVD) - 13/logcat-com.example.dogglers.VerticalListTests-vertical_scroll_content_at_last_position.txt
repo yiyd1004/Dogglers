@@ -1,0 +1,124 @@
+07-11 23:40:27.236  9541  9568 I TestRunner: started: vertical_scroll_content_at_last_position(com.example.dogglers.VerticalListTests)
+07-11 23:40:27.239   421   542 W TransactionTracing: Could not find layer handle 0x711c64c77fd0
+07-11 23:40:27.239   421   542 W TransactionTracing: Could not find layer handle 0x711c64c79350
+07-11 23:40:27.240   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7f110
+07-11 23:40:27.240   421   542 W TransactionTracing: Could not find layer handle 0x711c64c761d0
+07-11 23:40:27.240  9541  9568 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-11 23:40:27.252   941  1129 D SplashScreenView: Build android.window.SplashScreenView{679a647 V.E...... ......ID 0,0-0,0}
+07-11 23:40:27.252   941  1129 D SplashScreenView: Icon: view: null drawable: null size: 0
+07-11 23:40:27.252   941  1129 D SplashScreenView: Branding: view: android.view.View{45f9e74 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+07-11 23:40:27.268  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@65c34ee in: PRE_ON_CREATE
+07-11 23:40:27.268  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+07-11 23:40:27.281  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@65c34ee in: CREATED
+07-11 23:40:27.281  9541  9541 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.VerticalListActivity@65c34ee
+07-11 23:40:27.282  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@65c34ee in: STARTED
+07-11 23:40:27.282  9541  9541 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.VerticalListActivity@65c34ee
+07-11 23:40:27.283  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@65c34ee in: RESUMED
+07-11 23:40:27.283  9541  9541 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.VerticalListActivity@65c34ee
+07-11 23:40:27.340  9541  9570 W Parcel  : Expecting binder but got null!
+07-11 23:40:27.344   611   632 W ziparchive: Unable to open '/data/app/~~KKybfZjr8lggWu7990c7SQ==/com.example.dogglers-dmn-eGVhaAG0--3zqbBrDA==/base.dm': No such file or directory
+07-11 23:40:27.345   611   632 I ActivityTaskManager: Displayed com.example.dogglers/.VerticalListActivity: +100ms
+07-11 23:40:27.373   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.373   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.373   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.373   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.376   941  1149 W Parcel  : Expecting binder but got null!
+07-11 23:40:27.385  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-11 23:40:27.385  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-11 23:40:27.385  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+07-11 23:40:27.386  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-11 23:40:27.489   421   542 W TransactionTracing: Could not find layer handle 0x711c64c80490
+07-11 23:40:27.489   421   542 W TransactionTracing: Could not find layer handle 0x711c64c80490
+07-11 23:40:27.503   941  1149 D EGL_emulation: app_time_stats: avg=56.25ms min=3.64ms max=413.59ms count=17
+07-11 23:40:27.572   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.572   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.572   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.572   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.572   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.573   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.574   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.574   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.574   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.574   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.574   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.574   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.574   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.574   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.639   421   542 W TransactionTracing: Could not find layer handle 0x711c64c77d90
+07-11 23:40:27.640   421   542 W TransactionTracing: Could not find layer handle 0x711c64c75b70
+07-11 23:40:27.642  9541  9568 W FileTestStorage: Test input args is not supported.
+07-11 23:40:27.648  2858  3246 I PBSessionCacheImpl: Deleted sessionId[12571306072059803] from persistence.
+07-11 23:40:27.648  9541  9541 I ViewInteraction: Performing 'scroll RecyclerView to position: 5' action on view view.getId() is <2131231210/com.example.dogglers:id/vertical_recycler_view>
+07-11 23:40:27.651  2858  3235 W SearchServiceCore: Abort, client detached.
+07-11 23:40:27.652  2858  3235 W SearchServiceCore: Abort, client detached.
+07-11 23:40:27.652  2858  3235 W SearchServiceCore: Abort, client detached.
+07-11 23:40:27.652  2858  3235 W SearchServiceCore: Abort, client detached.
+07-11 23:40:27.652  2858  3235 W SearchServiceCore: Abort, client detached.
+07-11 23:40:27.656   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7dd30
+07-11 23:40:27.656   421   542 W TransactionTracing: Could not find layer handle 0x711c64c794d0
+07-11 23:40:27.656   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7dd30
+07-11 23:40:27.656   421   542 W TransactionTracing: Could not find layer handle 0x711c64c794d0
+07-11 23:40:27.693  9541  9549 I xample.dogglers: Compiler allocated 4160KB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
+07-11 23:40:27.695   611   723 W InputManager-JNI: Input channel object 'dcb834d Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+07-11 23:40:27.706   421   542 W TransactionTracing: Could not find layer handle 0x711c64c78630
+07-11 23:40:27.706   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7f2f0
+07-11 23:40:27.706   421   542 W TransactionTracing: Could not find layer handle 0x711c64c78630
+07-11 23:40:27.711  9541  9541 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Bella"
+07-11 23:40:27.718  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@65c34ee in: PAUSED
+07-11 23:40:27.718  9541  9541 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.VerticalListActivity@65c34ee
+07-11 23:40:27.722  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@943f670 in: PRE_ON_CREATE
+07-11 23:40:27.723  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@943f670
+07-11 23:40:27.726   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.726   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.727  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@943f670 in: CREATED
+07-11 23:40:27.727   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.727  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@943f670
+07-11 23:40:27.727   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.728  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@943f670 in: STARTED
+07-11 23:40:27.728  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@943f670
+07-11 23:40:27.729  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@943f670 in: RESUMED
+07-11 23:40:27.730  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@943f670
+07-11 23:40:27.777  9541  9570 W Parcel  : Expecting binder but got null!
+07-11 23:40:27.780   611   632 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +64ms
+07-11 23:40:27.790   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.790   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.803  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@65c34ee in: STOPPED
+07-11 23:40:27.804  9541  9541 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.VerticalListActivity@65c34ee
+07-11 23:40:27.806  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@65c34ee in: DESTROYED
+07-11 23:40:27.806  9541  9541 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+07-11 23:40:27.812   611  1331 W InputManager-JNI: Input channel object 'da0749 com.example.dogglers/com.example.dogglers.VerticalListActivity (client)' was disposed without first being removed with the input manager!
+07-11 23:40:27.823   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7db50
+07-11 23:40:27.825   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7aaf0
+07-11 23:40:27.825   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7be10
+07-11 23:40:27.829   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.830   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.830   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.834  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-11 23:40:27.835  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-11 23:40:27.835  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+07-11 23:40:27.836  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-11 23:40:27.838   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.839   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.839   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:27.843  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@943f670 in: PAUSED
+07-11 23:40:27.843  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@943f670
+07-11 23:40:27.856   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7a850
+07-11 23:40:27.888  9541  9568 I TestRunner: finished: vertical_scroll_content_at_last_position(com.example.dogglers.VerticalListTests)

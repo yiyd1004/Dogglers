@@ -1,0 +1,173 @@
+07-11 23:40:25.964  9541  9568 I TestRunner: started: recycler_view_item_count(com.example.dogglers.VerticalListTests)
+07-11 23:40:25.983  9541  9568 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-11 23:40:26.003   941  1129 D SplashScreenView: Build android.window.SplashScreenView{fc3a2d6 V.E...... ......ID 0,0-0,0}
+07-11 23:40:26.003   941  1129 D SplashScreenView: Icon: view: null drawable: null size: 0
+07-11 23:40:26.003   941  1129 D SplashScreenView: Branding: view: android.view.View{96db957 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+07-11 23:40:26.022   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.023   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.028  9541  9572 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+07-11 23:40:26.030  9541  9572 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+07-11 23:40:26.032  9541  9572 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+07-11 23:40:26.038   941  1149 W Parcel  : Expecting binder but got null!
+07-11 23:40:26.056   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.056   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.056   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.056   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.056   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.056   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.069  9541  9541 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+07-11 23:40:26.072   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.072   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.072   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.076  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@e25aa44 in: PRE_ON_CREATE
+07-11 23:40:26.077  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+07-11 23:40:26.144  1282  1960 D EGL_emulation: app_time_stats: avg=145.22ms min=14.38ms max=916.47ms count=7
+07-11 23:40:26.171  9541  9541 W xample.dogglers: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+07-11 23:40:26.171  9541  9541 W xample.dogglers: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+07-11 23:40:26.175  9541  9541 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10169; state: ENABLED
+07-11 23:40:26.189   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7e090
+07-11 23:40:26.208  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@e25aa44 in: CREATED
+07-11 23:40:26.209  9541  9541 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.VerticalListActivity@e25aa44
+07-11 23:40:26.210  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@e25aa44 in: STARTED
+07-11 23:40:26.210  9541  9541 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.VerticalListActivity@e25aa44
+07-11 23:40:26.212  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@e25aa44 in: RESUMED
+07-11 23:40:26.212  9541  9541 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.VerticalListActivity@e25aa44
+07-11 23:40:26.239  9541  9570 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1
+07-11 23:40:26.244  9541  9570 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+07-11 23:40:26.245  9541  9570 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+07-11 23:40:26.275  9541  9570 D EGL_emulation: eglCreateContext: 0x7e176296f310: maj 3 min 1 rcv 4
+07-11 23:40:26.304  9541  9570 D EGL_emulation: eglMakeCurrent: 0x7e176296f310: ver 3 1 (tinfo 0x7e197fb3d080) (first time)
+07-11 23:40:26.313   228   228 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+07-11 23:40:26.313  9541  9570 I Gralloc4: mapper 4.x is not supported
+07-11 23:40:26.343   228   228 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+07-11 23:40:26.351   227   227 I servicemanager: Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest.
+07-11 23:40:26.353  9541  9570 W Gralloc4: allocator 4.x is not supported
+07-11 23:40:26.368  9541  9570 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1
+07-11 23:40:26.389   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.437  9541  9570 W Parcel  : Expecting binder but got null!
+07-11 23:40:26.441   611   632 W ziparchive: Unable to open '/data/app/~~KKybfZjr8lggWu7990c7SQ==/com.example.dogglers-dmn-eGVhaAG0--3zqbBrDA==/base.dm': No such file or directory
+07-11 23:40:26.443   611   632 I ActivityTaskManager: Displayed com.example.dogglers/.VerticalListActivity: +450ms
+07-11 23:40:26.472  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-11 23:40:26.474  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-11 23:40:26.474  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+07-11 23:40:26.475  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-11 23:40:26.485   941  1149 D EGL_emulation: app_time_stats: avg=1045.77ms min=2.26ms max=9357.03ms count=9
+07-11 23:40:26.491   421   542 W TransactionTracing: Could not find layer handle 0x711c64c79d70
+07-11 23:40:26.503  1135  1432 D BtGatt.ScanManager: uid 10114 isForeground true scanMode -1
+07-11 23:40:26.503  1135  1432 D BtGatt.ScanManager: uid 10114 isForeground true scanMode -1
+07-11 23:40:26.512  2858  3246 I PBSessionCacheImpl: Deleted sessionId[12571306072059798] from persistence.
+07-11 23:40:26.525  2858  3235 I A       : Using proto config with mendel
+07-11 23:40:26.526  2858  3235 I A       : Using proto config with mendel
+07-11 23:40:26.526  2858  3235 W SearchServiceCore: Abort, client detached.
+07-11 23:40:26.528  2858  3235 I MicroDetectionState: Should stop hotword detection immediately - true
+07-11 23:40:26.528  2858  3235 I A       : Using proto config with mendel
+07-11 23:40:26.528  2858  3235 I A       : Using proto config with mendel
+07-11 23:40:26.539  9541  9568 W FileTestStorage: Output properties is not supported.
+07-11 23:40:26.540  9541  9568 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+07-11 23:40:26.544  2858  2858 I BgTaskExecutorImpl: Starting EXCLUSIVE background task SEND_GSA_HOME_REQUEST.
+07-11 23:40:26.554  9541  9568 D EventInjectionStrategy: Creating injection strategy with input manager.
+07-11 23:40:26.555  9541  9568 W xample.dogglers: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+07-11 23:40:26.555  9541  9568 W xample.dogglers: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+07-11 23:40:26.555  9541  9568 W xample.dogglers: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+07-11 23:40:26.575   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.575   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.575   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.575   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:26.577  9541  9541 W xample.dogglers: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+07-11 23:40:26.577  9541  9541 W xample.dogglers: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+07-11 23:40:26.577  9541  9541 W xample.dogglers: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+07-11 23:40:26.583  9541  9541 W xample.dogglers: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+07-11 23:40:26.583  9541  9541 W xample.dogglers: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+07-11 23:40:26.583  9541  9541 W xample.dogglers: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+07-11 23:40:26.590  9541  9541 I ViewInteraction: Checking 'com.example.dogglers.BaseTest$DrawableMatcher$RecyclerViewAssertion@1bb7560' assertion on view view.getId() is <2131231210/com.example.dogglers:id/vertical_recycler_view>
+07-11 23:40:26.601  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@e25aa44 in: PAUSED
+07-11 23:40:26.602  9541  9541 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.VerticalListActivity@e25aa44
+07-11 23:40:26.616  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5669078 in: PRE_ON_CREATE
+07-11 23:40:26.620  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5669078
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: Error when converting version: messages.android_20220809_01_RC02_alldpi.x86_64.phone
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: java.lang.NumberFormatException: For input string: "messages"
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at java.lang.Long.parseLong(Long.java:736)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at java.lang.Long.parseLong(Long.java:861)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at com.google.android.apps.gsa.staticplugins.ad.h.c(PG:3)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at com.google.android.apps.gsa.staticplugins.ad.h.g(PG:3)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at com.google.android.apps.gsa.staticplugins.ad.h.d(PG:267)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at com.google.android.apps.gsa.staticplugins.ad.h.a(PG:38)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at com.google.android.apps.gsa.staticplugins.ad.p.a(PG:1)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at com.google.android.libraries.gsa.k.a.f.a(PG:2)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at com.google.common.util.concurrent.dx.a(PG:1)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at com.google.common.util.concurrent.cv.run(PG:4)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at com.google.common.util.concurrent.dz.run(PG:1)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at com.google.android.libraries.i.ae.run(PG:1)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at com.google.android.libraries.i.k.run(PG:2)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at com.google.android.libraries.i.p.run(PG:4)
+07-11 23:40:26.621  2858  3042 E ApplicationPropertiesBu: 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:26.626  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5669078 in: CREATED
+07-11 23:40:26.626  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5669078
+07-11 23:40:26.627  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5669078 in: STARTED
+07-11 23:40:26.627  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5669078
+07-11 23:40:26.629  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5669078 in: RESUMED
+07-11 23:40:26.629  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5669078
+07-11 23:40:26.637  2858  3042 E ApplicationPropertiesBu: Date 2021-12-06T00:00:00Z is out of expected range.
+07-11 23:40:26.637  2858  3042 E ApplicationPropertiesBu: Date 2022-02-15T00:00:00Z is out of expected range.
+07-11 23:40:26.638  2858  3042 E ApplicationPropertiesBu: Date 2022-02-22T00:00:00Z is out of expected range.
+07-11 23:40:26.638  2858  3042 W A       : Exception while fetching versionCode for package[com.google.android.apps.tv.dreamx].
+07-11 23:40:26.638  2858  3042 W A       : android.content.pm.PackageManager$NameNotFoundException: com.google.android.apps.tv.dreamx
+07-11 23:40:26.638  2858  3042 W A       : 	at android.app.ApplicationPackageManager.getPackageInfoAsUser(ApplicationPackageManager.java:253)
+07-11 23:40:26.638  2858  3042 W A       : 	at android.app.ApplicationPackageManager.getPackageInfo(ApplicationPackageManager.java:213)
+07-11 23:40:26.638  2858  3042 W A       : 	at android.app.ApplicationPackageManager.getPackageInfo(ApplicationPackageManager.java:207)
+07-11 23:40:26.638  2858  3042 W A       : 	at com.google.android.apps.gsa.staticplugins.ad.h.d(PG:372)
+07-11 23:40:26.638  2858  3042 W A       : 	at com.google.android.apps.gsa.staticplugins.ad.h.a(PG:38)
+07-11 23:40:26.638  2858  3042 W A       : 	at com.google.android.apps.gsa.staticplugins.ad.p.a(PG:1)
+07-11 23:40:26.638  2858  3042 W A       : 	at com.google.android.libraries.gsa.k.a.f.a(PG:2)
+07-11 23:40:26.638  2858  3042 W A       : 	at com.google.common.util.concurrent.dx.a(PG:1)
+07-11 23:40:26.638  2858  3042 W A       : 	at com.google.common.util.concurrent.cv.run(PG:4)
+07-11 23:40:26.638  2858  3042 W A       : 	at com.google.common.util.concurrent.dz.run(PG:1)
+07-11 23:40:26.638  2858  3042 W A       : 	at com.google.android.libraries.i.ae.run(PG:1)
+07-11 23:40:26.638  2858  3042 W A       : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:26.638  2858  3042 W A       : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:26.638  2858  3042 W A       : 	at com.google.android.libraries.i.k.run(PG:2)
+07-11 23:40:26.638  2858  3042 W A       : 	at com.google.android.libraries.i.p.run(PG:4)
+07-11 23:40:26.638  2858  3042 W A       : 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:26.638  2858  3042 W A       : Failed to fetch versionCode for package[com.google.android.apps.tv.dreamx].
+07-11 23:40:26.644  2858  3042 W A       : Exception while fetching versionCode for package[com.google.android.apps.tv.launcherx].
+07-11 23:40:26.644  2858  3042 W A       : android.content.pm.PackageManager$NameNotFoundException: com.google.android.apps.tv.launcherx
+07-11 23:40:26.644  2858  3042 W A       : 	at android.app.ApplicationPackageManager.getPackageInfoAsUser(ApplicationPackageManager.java:253)
+07-11 23:40:26.644  2858  3042 W A       : 	at android.app.ApplicationPackageManager.getPackageInfo(ApplicationPackageManager.java:213)
+07-11 23:40:26.644  2858  3042 W A       : 	at android.app.ApplicationPackageManager.getPackageInfo(ApplicationPackageManager.java:207)
+07-11 23:40:26.644  2858  3042 W A       : 	at com.google.android.apps.gsa.staticplugins.ad.h.d(PG:372)
+07-11 23:40:26.644  2858  3042 W A       : 	at com.google.android.apps.gsa.staticplugins.ad.h.a(PG:38)
+07-11 23:40:26.644  2858  3042 W A       : 	at com.google.android.apps.gsa.staticplugins.ad.p.a(PG:1)
+07-11 23:40:26.644  2858  3042 W A       : 	at com.google.android.libraries.gsa.k.a.f.a(PG:2)
+07-11 23:40:26.644  2858  3042 W A       : 	at com.google.common.util.concurrent.dx.a(PG:1)
+07-11 23:40:26.644  2858  3042 W A       : 	at com.google.common.util.concurrent.cv.run(PG:4)
+07-11 23:40:26.644  2858  3042 W A       : 	at com.google.common.util.concurrent.dz.run(PG:1)
+07-11 23:40:26.644  2858  3042 W A       : 	at com.google.android.libraries.i.ae.run(PG:1)
+07-11 23:40:26.644  2858  3042 W A       : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:26.644  2858  3042 W A       : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:26.644  2858  3042 W A       : 	at com.google.android.libraries.i.k.run(PG:2)
+07-11 23:40:26.644  2858  3042 W A       : 	at com.google.android.libraries.i.p.run(PG:4)
+07-11 23:40:26.644  2858  3042 W A       : 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:26.645  2858  3042 W A       : Failed to fetch versionCode for package[com.google.android.apps.tv.launcherx].
+07-11 23:40:26.661  1460  1460 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.languageprofile.service.START pkg=com.google.android.gms }
+07-11 23:40:26.661  1460  1460 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.languageprofile.service.START pkg=com.google.android.gms }
+07-11 23:40:26.662  2858  6993 I A       : getModuleProperties: device does not support SoundTrigger recognition
+07-11 23:40:26.683  9541  9570 W Parcel  : Expecting binder but got null!
+07-11 23:40:26.686   611   636 W InputManager-JNI: Input channel object 'a10455d Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+07-11 23:40:26.687   611   632 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +90ms
+07-11 23:40:26.689   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7ce90
+07-11 23:40:26.699  1135  1432 D BtGatt.ScanManager: uid 10114 isForeground true scanMode -1
+07-11 23:40:26.699  1135  1432 D BtGatt.ScanManager: uid 10114 isForeground true scanMode -1
+07-11 23:40:26.726  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@e25aa44 in: STOPPED
+07-11 23:40:26.727  9541  9541 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.VerticalListActivity@e25aa44
+07-11 23:40:26.728  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-11 23:40:26.730  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-11 23:40:26.730  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+07-11 23:40:26.731  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-11 23:40:26.738  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@e25aa44 in: DESTROYED
+07-11 23:40:26.738  9541  9541 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+07-11 23:40:26.742   611   866 W InputManager-JNI: Input channel object '3a918fc com.example.dogglers/com.example.dogglers.VerticalListActivity (client)' was disposed without first being removed with the input manager!
+07-11 23:40:26.747  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5669078 in: PAUSED
+07-11 23:40:26.747  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5669078
+07-11 23:40:26.754  9541  9568 I TestRunner: finished: recycler_view_item_count(com.example.dogglers.VerticalListTests)

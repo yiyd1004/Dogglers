@@ -1,0 +1,492 @@
+07-11 23:40:30.257  9541  9568 I TestRunner: started: vertical_scroll_content_at_first_position(com.example.dogglers.VerticalListTests)
+07-11 23:40:30.272  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3c99777 in: DESTROYED
+07-11 23:40:30.273   611  1314 W InputManager-JNI: Input channel object '8f599a9 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+07-11 23:40:30.278  9541  9568 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-11 23:40:30.283  5847  9637 W TimedProcessReaper: Scheduling killing of process to refresh configuration
+07-11 23:40:30.286  5847  9637 W TimedProcessReaper: Scheduling killing of process to refresh configuration
+07-11 23:40:30.291   941  1129 D SplashScreenView: Build android.window.SplashScreenView{d438bc3 V.E...... ......ID 0,0-0,0}
+07-11 23:40:30.291   941  1129 D SplashScreenView: Icon: view: null drawable: null size: 0
+07-11 23:40:30.291   941  1129 D SplashScreenView: Branding: view: android.view.View{62a1c40 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+07-11 23:40:30.292   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7c110
+07-11 23:40:30.292   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7eb10
+07-11 23:40:30.303  2858  3042 I FedAssExpListener: Fed-ass not supported for signed out users.
+07-11 23:40:30.303  2858  3061 I FedAssExpListener: Successfully processed experiments changed.
+07-11 23:40:30.305  2858  3044 I A       : NGA disabled due to not being eligible.
+07-11 23:40:30.306  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@f81d57 in: PRE_ON_CREATE
+07-11 23:40:30.307  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+07-11 23:40:30.308  2858  3051 I OpaEligibilityChecker: send OpaEligibilityChange broadcast to CommonBroadcastReceiver
+07-11 23:40:30.309   226   226 I lowmemorykiller: lmkd data connection established
+07-11 23:40:30.314   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.315   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.315   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.315   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: Invalid input from icing corpus JSON flag.
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: android.util.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 123 column 2
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at android.util.JsonReader.syntaxError(JsonReader.java:1162)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at android.util.JsonReader.checkLenient(JsonReader.java:840)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at android.util.JsonReader.nextInArray(JsonReader.java:615)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at android.util.JsonReader.peek(JsonReader.java:345)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at android.util.JsonReader.hasNext(JsonReader.java:321)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at com.google.android.apps.gsa.searchbox.c.b.b.k.c(PG:7)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at com.google.android.apps.gsa.searchbox.c.b.b.j.a(Unknown Source:2)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at com.google.android.apps.gsa.search.core.i.r.run(PG:5)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at com.google.android.libraries.gsa.k.a.h.run(PG:2)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at com.google.android.apps.gsa.shared.util.c.a.cf.b(PG:1)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at com.google.android.apps.gsa.shared.util.c.a.ci.run(PG:1)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at com.google.android.libraries.i.ae.run(PG:1)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at com.google.android.libraries.i.k.run(PG:2)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at com.google.android.libraries.i.p.run(PG:4)
+07-11 23:40:30.322  2858  3051 W CorpusConfigHelper: 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:30.329   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.330   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.330  1460  4360 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.googlequicksearchbox componentName=agsa_icing_connection serviceId=32
+07-11 23:40:30.330  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@f81d57 in: CREATED
+07-11 23:40:30.330  9541  9541 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.VerticalListActivity@f81d57
+07-11 23:40:30.331  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@f81d57 in: STARTED
+07-11 23:40:30.332  9541  9541 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.VerticalListActivity@f81d57
+07-11 23:40:30.333  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@f81d57 in: RESUMED
+07-11 23:40:30.333  9541  9541 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.VerticalListActivity@f81d57
+07-11 23:40:30.337  1460  4365 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.googlequicksearchbox componentName=agsa_icing_connection serviceId=33
+07-11 23:40:30.356   226   226 I lowmemorykiller: Using psi monitors for memory pressure detection
+07-11 23:40:30.356   226   226 I lowmemorykiller: Properties reinitilized
+07-11 23:40:30.356  9639  9639 I lowmemorykiller: lmkd updated properties successfully
+07-11 23:40:30.357   226   226 I lowmemorykiller: lmkd data connection dropped
+07-11 23:40:30.357   226   226 I lowmemorykiller: closing lmkd data connection
+07-11 23:40:30.359   611   621 I system_server: NativeAlloc concurrent copying GC freed 400733(19MB) AllocSpace objects, 16(544KB) LOS objects, 49% free, 21MB/43MB, paused 2.935ms,83us total 520.804ms
+07-11 23:40:30.377   941  1149 W Parcel  : Expecting binder but got null!
+07-11 23:40:30.402  1313  9371 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.402  1313  9371 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:30.402  1313  9371 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.402  1313  9371 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:30.402  1313  9371 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.403  1313  9371 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:30.403  1313  9371 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:30.403  1313  9371 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:30.403  1313  9371 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:30.416  1460  8701 W Icing   : No valid account for uploading user actions
+07-11 23:40:30.418  1313  9371 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.424  9541  9570 W Parcel  : Expecting binder but got null!
+07-11 23:40:30.425  1313  9371 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:30.425  1313  9371 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:30.425  1313  9371 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:30.425  1313  9371 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:30.425  1313  9371 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.425  1313  9371 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:30.425  1313  9371 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.451   611   632 W ziparchive: Unable to open '/data/app/~~KKybfZjr8lggWu7990c7SQ==/com.example.dogglers-dmn-eGVhaAG0--3zqbBrDA==/base.dm': No such file or directory
+07-11 23:40:30.451   611   632 I ActivityTaskManager: Displayed com.example.dogglers/.VerticalListActivity: +160ms
+07-11 23:40:30.474  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-11 23:40:30.474  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-11 23:40:30.475  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+07-11 23:40:30.475   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.475   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.475   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.475  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-11 23:40:30.483  1460  8701 I Icing   : Usage reports ok 1, Failed Usage reports 0, indexed 0, rejected 0
+07-11 23:40:30.499   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.503  1460  8701 W Icing   : No valid account for uploading user actions
+07-11 23:40:30.504  1313  9371 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.504  1313  9371 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:30.505  1313  9371 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.505  1313  9371 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:30.506  1313  9371 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.506  1313  9371 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:30.514  1313  9371 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:30.514  1313  9371 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:30.514  1313  9371 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:30.515  1313  9371 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.515  1313  9371 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:30.515  1313  9371 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:30.515  1313  9371 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:30.515  1313  9371 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:30.515  1313  9371 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.515  1313  9371 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:30.515  1313  9371 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.531  1460  8701 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+07-11 23:40:30.553  1313  9371 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.553  1313  9371 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:30.553  1313  9371 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.554  1313  9371 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:30.555  1313  9371 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.555  1313  9371 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:30.556  1313  9371 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:30.557  1313  9371 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:30.558  1313  9371 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:30.559  1313  9371 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.560  1313  9371 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:30.560  1313  9371 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:30.561  1313  9371 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:30.561  1313  9371 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:30.562  1313  9371 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.562  1313  9371 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:30.562  1313  9371 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.572  1313  9371 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.kids#com.google.android.gms [CONTEXT service_id=204 ]
+07-11 23:40:30.572  1313  9371 W PhenotypeConfigurationU: bqxl: No package exists for config package: com.google.android.gms.kids#com.google.android.gms
+07-11 23:40:30.572  1313  9371 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@225014047@22.50.14 (190800-499278674):7)
+07-11 23:40:30.572  1313  9371 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):6)
+07-11 23:40:30.572  1313  9371 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.572  1313  9371 W PhenotypeConfigurationU: 	at xuu.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):4)
+07-11 23:40:30.572  1313  9371 W PhenotypeConfigurationU: 	at gug.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):3)
+07-11 23:40:30.572  1313  9371 W PhenotypeConfigurationU: 	at guf.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):11)
+07-11 23:40:30.572  1313  9371 W PhenotypeConfigurationU: 	at cxit.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.572  1313  9371 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:30.572  1313  9371 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:30.572  1313  9371 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:30.576  1313  9386 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.577  1313  9386 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:30.578  1313  9386 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.579  1313  9386 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:30.580  1313  9386 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.581  1313  9386 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:30.582  1313  9386 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:30.583  1313  9386 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:30.585  1313  9386 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:30.586  1313  9386 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.587  1313  9386 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:30.588  1313  9386 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:30.589  1313  9386 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:30.590  1313  9386 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:30.590   421   542 W TransactionTracing: Could not find layer handle 0x711c64c80e50
+07-11 23:40:30.590   421   542 W TransactionTracing: Could not find layer handle 0x711c64c80e50
+07-11 23:40:30.591  1313  9386 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.592  1313  9386 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:30.594  1313  9386 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.595  1313  9386 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.libraries.performance.primes#com.google.android.gms [CONTEXT service_id=204 ]
+07-11 23:40:30.595  1313  9386 W PhenotypeConfigurationU: bqxl: No package exists for config package: com.google.android.libraries.performance.primes#com.google.android.gms
+07-11 23:40:30.595  1313  9386 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@225014047@22.50.14 (190800-499278674):7)
+07-11 23:40:30.595  1313  9386 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):6)
+07-11 23:40:30.595  1313  9386 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.595  1313  9386 W PhenotypeConfigurationU: 	at xuu.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):4)
+07-11 23:40:30.595  1313  9386 W PhenotypeConfigurationU: 	at gug.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):3)
+07-11 23:40:30.595  1313  9386 W PhenotypeConfigurationU: 	at guf.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):11)
+07-11 23:40:30.595  1313  9386 W PhenotypeConfigurationU: 	at cxit.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.595  1313  9386 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:30.595  1313  9386 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:30.595  1313  9386 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:30.614  1282  1294 W System  : A resource failed to call release.
+07-11 23:40:30.614  1282  1294 W System  : A resource failed to call release.
+07-11 23:40:30.614  1282  1294 W System  : A resource failed to call release.
+07-11 23:40:30.615  1282  1294 W System  : A resource failed to call release.
+07-11 23:40:30.615  1282  1294 W System  : A resource failed to call release.
+07-11 23:40:30.616  1282  1294 W System  : A resource failed to call release.
+07-11 23:40:30.616  1282  1294 W System  : A resource failed to call release.
+07-11 23:40:30.617  1282  1294 W System  : A resource failed to call release.
+07-11 23:40:30.617  1282  1294 W System  : A resource failed to call release.
+07-11 23:40:30.645   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.645   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.645   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.645   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.665  1313  9369 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.666  1313  9369 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:30.668  1313  9369 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.669  1313  9369 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:30.670  1313  9369 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.670  1313  9369 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:30.671  1313  9369 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:30.671  1313  9369 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:30.672  1313  9369 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:30.672   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.672  1313  9369 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.672  1313  9369 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:30.672  1313  9369 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:30.672  1313  9369 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:30.673  1313  9369 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:30.673  1313  9369 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.673  1313  9369 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:30.673  1313  9369 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.673  1313  9369 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.learning#com.google.android.gms [CONTEXT service_id=204 ]
+07-11 23:40:30.673  1313  9369 W PhenotypeConfigurationU: bqxl: No package exists for config package: com.google.android.gms.learning#com.google.android.gms
+07-11 23:40:30.673  1313  9369 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@225014047@22.50.14 (190800-499278674):7)
+07-11 23:40:30.673  1313  9369 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):6)
+07-11 23:40:30.673  1313  9369 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.673  1313  9369 W PhenotypeConfigurationU: 	at xuu.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):4)
+07-11 23:40:30.673  1313  9369 W PhenotypeConfigurationU: 	at gug.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):3)
+07-11 23:40:30.673  1313  9369 W PhenotypeConfigurationU: 	at guf.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):11)
+07-11 23:40:30.673  1313  9369 W PhenotypeConfigurationU: 	at cxit.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.673  1313  9369 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:30.673  1313  9369 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:30.673  1313  9369 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:30.703  9177  9603 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10114; state: ENABLED
+07-11 23:40:30.709  1313  9389 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.716  1313  9389 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:30.717  1313  9389 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.718  1313  9389 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:30.723   421   542 W TransactionTracing: Could not find layer handle 0x711c64c78ab0
+07-11 23:40:30.723   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7fcb0
+07-11 23:40:30.728  1313  9389 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.729   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7fcb0
+07-11 23:40:30.729   421   542 W TransactionTracing: Could not find layer handle 0x711c64c78ab0
+07-11 23:40:30.729   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7fcb0
+07-11 23:40:30.730  1313  9389 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:30.730  1313  9389 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:30.730  1313  9389 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:30.730  1313  9389 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:30.731   421   542 W TransactionTracing: Could not find layer handle 0x711c64c78ab0
+07-11 23:40:30.731  9541  9541 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Tzeitel"
+07-11 23:40:30.735  9541  9541 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Age: 7"
+07-11 23:40:30.737  1313  9389 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.741  9541  9541 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Hobbies: sunbathing"
+07-11 23:40:30.753  1313  9389 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:30.754  1313  9389 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:30.755  1313  9389 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:30.756  1313  9389 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:30.759  1313  9389 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.769  2858  3235 W SearchServiceCore: Abort, client detached.
+07-11 23:40:30.772  1313  9389 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:30.772  1313  9389 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.773  1313  9389 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms [CONTEXT service_id=204 ]
+07-11 23:40:30.773  1313  9389 W PhenotypeConfigurationU: bqxl: No package exists for config package: com.google.android.gms
+07-11 23:40:30.773  1313  9389 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@225014047@22.50.14 (190800-499278674):7)
+07-11 23:40:30.773  1313  9389 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):6)
+07-11 23:40:30.773  1313  9389 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.773  1313  9389 W PhenotypeConfigurationU: 	at xuu.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):4)
+07-11 23:40:30.773  1313  9389 W PhenotypeConfigurationU: 	at gug.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):3)
+07-11 23:40:30.773  1313  9389 W PhenotypeConfigurationU: 	at guf.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):11)
+07-11 23:40:30.773  1313  9389 W PhenotypeConfigurationU: 	at cxit.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.773  1313  9389 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:30.773  1313  9389 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:30.773  1313  9389 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:30.775  1313  9645 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.775  1313  9645 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:30.776  1313  9645 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.776  1313  9645 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:30.776  1313  9645 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.776  2858  3336 I PBSessionCacheImpl: Deleted sessionId[12571306072059805] from persistence.
+07-11 23:40:30.777  1313  9645 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:30.777  1313  9645 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:30.777  1313  9645 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:30.777  1313  9645 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:30.777  1313  9645 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.778  1313  9645 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:30.778  1313  9645 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:30.779  1313  9645 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:30.779  1313  9645 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:30.780  1313  9645 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.780  1313  9645 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:30.781  1313  9645 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.781  1313  9645 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.phenotype [CONTEXT service_id=204 ]
+07-11 23:40:30.781  1313  9645 W PhenotypeConfigurationU: bqxl: No package exists for config package: com.google.android.gms.phenotype
+07-11 23:40:30.781  1313  9645 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@225014047@22.50.14 (190800-499278674):7)
+07-11 23:40:30.781  1313  9645 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):6)
+07-11 23:40:30.781  1313  9645 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.781  1313  9645 W PhenotypeConfigurationU: 	at xuu.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):4)
+07-11 23:40:30.781  1313  9645 W PhenotypeConfigurationU: 	at gug.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):3)
+07-11 23:40:30.781  1313  9645 W PhenotypeConfigurationU: 	at guf.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):11)
+07-11 23:40:30.781  1313  9645 W PhenotypeConfigurationU: 	at cxit.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.781  1313  9645 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:30.781  1313  9645 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:30.781  1313  9645 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:30.783  1313  9369 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.783  1313  9369 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:30.783  1313  9369 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.783  1313  9369 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:30.784  1313  9369 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.784  1313  9369 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:30.784  1313  9369 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:30.784  1313  9369 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:30.784  1313  9369 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:30.786  1313  9369 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.786  1313  9369 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:30.787  1313  9369 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:30.787  1313  9369 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:30.787  1313  9369 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:30.788  1313  9369 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.789  1313  9369 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:30.794  1313  9369 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.794  1313  9369 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.westworld [CONTEXT service_id=204 ]
+07-11 23:40:30.794  1313  9369 W PhenotypeConfigurationU: bqxl: No package exists for config package: com.google.android.westworld
+07-11 23:40:30.794  1313  9369 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@225014047@22.50.14 (190800-499278674):7)
+07-11 23:40:30.794  1313  9369 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):6)
+07-11 23:40:30.794  1313  9369 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.794  1313  9369 W PhenotypeConfigurationU: 	at xuu.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):4)
+07-11 23:40:30.794  1313  9369 W PhenotypeConfigurationU: 	at gug.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):3)
+07-11 23:40:30.794  1313  9369 W PhenotypeConfigurationU: 	at guf.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):11)
+07-11 23:40:30.794  1313  9369 W PhenotypeConfigurationU: 	at cxit.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.794  1313  9369 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:30.794  1313  9369 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:30.794  1313  9369 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:30.804   611  1331 W InputManager-JNI: Input channel object '859e15e Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+07-11 23:40:30.872  1313  9386 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.872  1313  9386 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:30.872  1313  9386 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.873  1313  9386 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:30.873  1313  9386 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.873  1313  9386 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:30.873  1313  9386 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:30.873  1313  9386 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:30.873  1313  9386 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:30.873  1313  9386 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.874  1313  9386 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:30.874  1313  9386 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:30.875  1313  9386 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:30.875  1313  9386 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:30.875  1313  9386 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.878  1313  9386 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:30.878  1313  9386 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.879  1313  9386 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.romanesco [CONTEXT service_id=204 ]
+07-11 23:40:30.879  1313  9386 W PhenotypeConfigurationU: bqxl: No package exists for config package: com.google.android.gms.romanesco
+07-11 23:40:30.879  1313  9386 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@225014047@22.50.14 (190800-499278674):7)
+07-11 23:40:30.879  1313  9386 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):6)
+07-11 23:40:30.879  1313  9386 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.879  1313  9386 W PhenotypeConfigurationU: 	at xuu.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):4)
+07-11 23:40:30.879  1313  9386 W PhenotypeConfigurationU: 	at gug.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):3)
+07-11 23:40:30.879  1313  9386 W PhenotypeConfigurationU: 	at guf.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):11)
+07-11 23:40:30.879  1313  9386 W PhenotypeConfigurationU: 	at cxit.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.879  1313  9386 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:30.879  1313  9386 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:30.879  1313  9386 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:30.909  1313  9389 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.909  1313  9389 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:30.909  1313  9389 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.909  1313  9389 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:30.910  1313  9389 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.910  1313  9389 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:30.910   384   384 D Zygote  : Forked child process 9654
+07-11 23:40:30.910  1313  9389 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:30.910  1313  9389 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:30.910  9541  9541 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view has drawable resource 2131165417
+07-11 23:40:30.911  1313  9389 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:30.911  1313  9389 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.912  1313  9389 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:30.912  1313  9389 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:30.913  1313  9389 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:30.913  1313  9389 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:30.914  1313  9389 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.915  1313  9389 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:30.916  1313  9389 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.917  1313  9389 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.backup [CONTEXT service_id=204 ]
+07-11 23:40:30.917  1313  9389 W PhenotypeConfigurationU: bqxl: No package exists for config package: com.google.android.gms.backup
+07-11 23:40:30.917  1313  9389 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@225014047@22.50.14 (190800-499278674):7)
+07-11 23:40:30.917  1313  9389 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):6)
+07-11 23:40:30.917  1313  9389 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.917  1313  9389 W PhenotypeConfigurationU: 	at xuu.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):4)
+07-11 23:40:30.917  1313  9389 W PhenotypeConfigurationU: 	at gug.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):3)
+07-11 23:40:30.917  1313  9389 W PhenotypeConfigurationU: 	at guf.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):11)
+07-11 23:40:30.917  1313  9389 W PhenotypeConfigurationU: 	at cxit.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.917  1313  9389 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:30.917  1313  9389 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:30.917  1313  9389 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:30.920  1313  9406 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.920  9654  9654 W .apps.messaging: Unexpected CPU variant for x86: x86_64.
+07-11 23:40:30.920  9654  9654 W .apps.messaging: Known variants: atom, sandybridge, silvermont, kabylake, default
+07-11 23:40:30.921  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@f81d57 in: PAUSED
+07-11 23:40:30.921  1313  9406 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:30.921  9541  9541 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.VerticalListActivity@f81d57
+07-11 23:40:30.928  1313  9406 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:30.930   425   479 I adbd    : jdwp connection from 9654
+07-11 23:40:30.933  1313  9406 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:30.934  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@bd1d607 in: PRE_ON_CREATE
+07-11 23:40:30.934  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@bd1d607
+07-11 23:40:30.934  1313  9406 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.937  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@bd1d607 in: CREATED
+07-11 23:40:30.938  1313  9406 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:30.938  1313  9406 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:30.938  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@bd1d607
+07-11 23:40:30.939  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@bd1d607 in: STARTED
+07-11 23:40:30.939  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@bd1d607
+07-11 23:40:30.940  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@bd1d607 in: RESUMED
+07-11 23:40:30.941  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@bd1d607
+07-11 23:40:30.949  1313  9406 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:30.950  1313  9406 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:30.950  1313  9406 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:30.951  1313  9406 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:30.955  1313  1324 W .gms.persistent: Cleared Reference was only reachable from finalizer (only reported once)
+07-11 23:40:30.958  9654  9654 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10115; state: ENABLED
+07-11 23:40:30.960   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.960   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.961   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.961   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.961   421   542 W TransactionTracing: Could not find layer id -1
+07-11 23:40:30.966  1313  9406 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:30.968  1313  9406 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:30.969  1313  9406 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:30.969  1313  9406 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.969  1313  9406 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:30.970  1313  9406 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:30.970  1313  9406 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.libraries.consentverifier#com.google.android.gms [CONTEXT service_id=204 ]
+07-11 23:40:30.970  1313  9406 W PhenotypeConfigurationU: bqxl: No package exists for config package: com.google.android.libraries.consentverifier#com.google.android.gms
+07-11 23:40:30.970  1313  9406 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@225014047@22.50.14 (190800-499278674):7)
+07-11 23:40:30.970  1313  9406 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):6)
+07-11 23:40:30.970  1313  9406 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.970  1313  9406 W PhenotypeConfigurationU: 	at xuu.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):4)
+07-11 23:40:30.970  1313  9406 W PhenotypeConfigurationU: 	at gug.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):3)
+07-11 23:40:30.970  1313  9406 W PhenotypeConfigurationU: 	at guf.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):11)
+07-11 23:40:30.970  1313  9406 W PhenotypeConfigurationU: 	at cxit.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:30.970  1313  9406 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:30.970  1313  9406 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:30.970  1313  9406 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:30.987  9654  9654 D nativeloader: Configuring classloader-namespace for other apk /system/framework/org.apache.http.legacy.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/product/priv-app/PrebuiltBugle/lib/x86_64:/product/priv-app/PrebuiltBugle/PrebuiltBugle.apk!/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.apps.messaging
+07-11 23:40:30.989  9654  9654 D nativeloader: Configuring classloader-namespace for other apk /system_ext/framework/androidx.window.extensions.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/product/priv-app/PrebuiltBugle/lib/x86_64:/product/priv-app/PrebuiltBugle/PrebuiltBugle.apk!/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.apps.messaging
+07-11 23:40:30.990  9654  9654 D nativeloader: Configuring classloader-namespace for other apk /system_ext/framework/androidx.window.sidecar.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/product/priv-app/PrebuiltBugle/lib/x86_64:/product/priv-app/PrebuiltBugle/PrebuiltBugle.apk!/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.apps.messaging
+07-11 23:40:31.025  1313  1324 I .gms.persistent: Background concurrent copying GC freed 407924(18MB) AllocSpace objects, 24(3280KB) LOS objects, 49% free, 13MB/27MB, paused 769us,114us total 133.560ms
+07-11 23:40:31.025  9654  9654 D nativeloader: Configuring vendor-classloader-namespace for unbundled product apk /product/priv-app/PrebuiltBugle/PrebuiltBugle.apk. target_sdk_version=33, uses_libraries=, library_path=/product/priv-app/PrebuiltBugle/lib/x86_64:/product/priv-app/PrebuiltBugle/PrebuiltBugle.apk!/lib/x86_64:/product/lib64:/system/product/lib64, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.apps.messaging:/product/lib64:/system/product/lib64
+07-11 23:40:31.038   941  1149 D EGL_emulation: app_time_stats: avg=23.92ms min=1.05ms max=100.00ms count=36
+07-11 23:40:31.039  9654  9654 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.apps.messaging' set to: 'default'
+07-11 23:40:31.041  9654  9654 V GraphicsEnvironment: ANGLE GameManagerService for com.google.android.apps.messaging: false
+07-11 23:40:31.041  9654  9654 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+07-11 23:40:31.041  9541  9570 W Parcel  : Expecting binder but got null!
+07-11 23:40:31.044   611   632 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +127ms
+07-11 23:40:31.045  9654  9654 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-11 23:40:31.045  9654  9654 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-11 23:40:31.052  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@f81d57 in: STOPPED
+07-11 23:40:31.053  9541  9541 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.VerticalListActivity@f81d57
+07-11 23:40:31.054  9541  9541 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@f81d57 in: DESTROYED
+07-11 23:40:31.055  9541  9541 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+07-11 23:40:31.059   611  2104 W InputManager-JNI: Input channel object '7eba137 com.example.dogglers/com.example.dogglers.VerticalListActivity (client)' was disposed without first being removed with the input manager!
+07-11 23:40:31.070  1313  9371 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:31.070  1313  9371 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:31.070  1313  9371 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:31.071  1313  9371 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:31.071  1313  9371 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:31.071  1313  9371 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:31.071  1313  9371 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:31.071  1313  9371 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:31.072  1313  9371 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:31.072  1313  9371 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:31.079  1313  9371 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:31.079   421   542 W TransactionTracing: Could not find layer handle 0x711c64c80eb0
+07-11 23:40:31.080   421   542 W TransactionTracing: Could not find layer handle 0x711c64c81330
+07-11 23:40:31.080  1313  9371 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:31.080   421   542 W TransactionTracing: Could not find layer handle 0x711c64c7c350
+07-11 23:40:31.080  1313  9371 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:31.081  1313  9371 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:31.081  1313  9371 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:31.082  1313  9371 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:31.082  1313  9371 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:31.082  1313  9371 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.auth_account [CONTEXT service_id=204 ]
+07-11 23:40:31.082  1313  9371 W PhenotypeConfigurationU: bqxl: No package exists for config package: com.google.android.gms.auth_account
+07-11 23:40:31.082  1313  9371 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@225014047@22.50.14 (190800-499278674):7)
+07-11 23:40:31.082  1313  9371 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):6)
+07-11 23:40:31.082  1313  9371 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:31.082  1313  9371 W PhenotypeConfigurationU: 	at xuu.onHandleIntent(:com.google.android.gms@225014047@22.50.14 (190800-499278674):4)
+07-11 23:40:31.082  1313  9371 W PhenotypeConfigurationU: 	at gug.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):3)
+07-11 23:40:31.082  1313  9371 W PhenotypeConfigurationU: 	at guf.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):11)
+07-11 23:40:31.082  1313  9371 W PhenotypeConfigurationU: 	at cxit.run(:com.google.android.gms@225014047@22.50.14 (190800-499278674):2)
+07-11 23:40:31.082  1313  9371 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-11 23:40:31.082  1313  9371 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-11 23:40:31.082  1313  9371 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:1012)
+07-11 23:40:31.098  1313  9371 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:31.098  1313  9371 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+07-11 23:40:31.098  1313  9371 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+07-11 23:40:31.099  1313  9371 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+07-11 23:40:31.099  1313  9371 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:31.100  1313  9371 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+07-11 23:40:31.101  1313  9371 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+07-11 23:40:31.101  1313  9371 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+07-11 23:40:31.101  1313  9371 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+07-11 23:40:31.102  1313  9371 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+07-11 23:40:31.102  1313  9371 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+07-11 23:40:31.103  1313  9371 I ExperimentPackageManage: Package 1 name not found! Using module version.
+07-11 23:40:31.106  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-11 23:40:31.107  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-11 23:40:31.107  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+07-11 23:40:31.107  9541  9541 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@bd1d607 in: PAUSED
+07-11 23:40:31.107  9541  9541 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@bd1d607
+07-11 23:40:31.108  1313  9371 I ExperimentPackageManage: Package rkpd name not found! Using module version.
+07-11 23:40:31.108  1313  9371 I ExperimentPackageManage: Package com.google.android.devicelockcontroller name not found! Using module version.
+07-11 23:40:31.109  1673  1673 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-11 23:40:31.110  1313  9371 I ExperimentPackageManage: Package com.google.android.healthfitness name not found! Using module version.
+07-11 23:40:31.111  1313  9371 I ExperimentPackageManage: Package android.companion name not found! Using module version.
+07-11 23:40:31.115  9541  9568 I TestRunner: finished: vertical_scroll_content_at_first_position(com.example.dogglers.VerticalListTests)
