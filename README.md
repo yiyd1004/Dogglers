@@ -25,3 +25,12 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+Screenshots
+-----------
+<div style="float:left">
+<img width="200" height="433" src="Screenshot_main.png" alt="Dogglers Main Landing View">&nbsp;&nbsp;
+<img width="200" height="433" src="Screenshot_vertical.png" alt="Dogglers Vertical List View">&nbsp;&nbsp;
+<img width="200" height="433" src="Screenshot_horizontal.png" alt="Dogglers Horizontal View">&nbsp;&nbsp;
+<img width="200" height="433" src="Screenshot_grid.png" alt="Dogglers Grid View">  
+</div>
